@@ -1,4 +1,4 @@
-days = day01 day02
+days = day01 day02 day03
 
 .PHONY: all clean
 
